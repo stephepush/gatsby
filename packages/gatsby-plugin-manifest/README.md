@@ -1,5 +1,7 @@
 # gatsby-plugin-manifest
 
+_You might have heard the term "progressive web app" in passing over the last few years. You might not know much more about the concept than it's name, much less what a "web app's manifest" is. MDN has a great primer on what progressive web app manifests are [here](https://developer.mozilla.org/en-US/docs/Web/Manifest) and you might want to keep that page open in another tab while reading this page._
+
 The web app manifest(part of the [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) specification) enabled by this plugin allows users to add your site to their home screen on most mobile browsers —
 [see here](http://caniuse.com/#feat=web-app-manifest). The manifest provides configuration and icons to the phone.
 
